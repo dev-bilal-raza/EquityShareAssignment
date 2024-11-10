@@ -6,7 +6,7 @@ import Link from 'next/link';
 const ResourcesSection = () => {
 
   return (
-    <div className="px-8 py-8 lg:px-12 xl:px-20 bg-[#F8F8F9]">
+    <div className="px-8 pt-8 pb-12 lg:px-12 xl:px-20 bg-[#F8F8F9]">
       <div className='flex xl:flex-row flex-col gap-10 pt-20'>
         <div className='xl:pr-20 flex xl:flex-col gap-10 lg:flex-row flex-col xl:items-stretch lg:items-center items-stretch justify-between xl:justify-start'>
           <div className="mb-8 sm:w-[400px]">

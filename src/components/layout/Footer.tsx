@@ -21,7 +21,7 @@ const Footer = () => {
         setLinks(updatedLinks)
     }
     return (
-        <footer className='px-8 lg:px-12 xl:px-20 py-6'>
+        <footer className='px-8 pt-8 lg:px-12 xl:px-20 py-6 bg-[#F8F8F9]'>
             <div>
                 <div className='flex exsmall:flex-row flex-col justify-between exsmall:items-center gap-4'>
                     <div className='flex gap-16 items-center'>

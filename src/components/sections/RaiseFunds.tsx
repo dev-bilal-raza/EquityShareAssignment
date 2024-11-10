@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const RaiseFunds = () => {
     return (
-        <div className="text-white my-3">
+        <div className="text-white">
             <div className="relative w-full h-[750px] sm:h-[700px] md:h-[650px] lg:h-[600px] xl:h-[550px] 2xl:h-[520px]">
                 <div className='absolute z-20 w-full h-full flex flex-col justify-center items-center gap-2'>
                     <h4 className='text-[#FFFFFF] font-medium text-base text-center'>
